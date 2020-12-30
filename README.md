@@ -1,8 +1,8 @@
 - ### Hi，Welcome to my GitHub!
 
-  - <img src="junglegodlion.png" align="right" alt="jungle" style="zoom:10%;" />😄 I am junglegodlion, a super handsome boy
+  - <img src="junglegodlion.png" align="right" alt="jungle" style="zoom:5%;" />😄 I am junglegodlion, a super handsome boy
 
-  - 🛠 I’m currently working with Java, Python, Scala, SQL
+  - 🛠 I’m currently working with Java, Python, Scala
 
   - 👨🏻‍💻 I’m currently learning Full Stack Development
 

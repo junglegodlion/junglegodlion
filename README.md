@@ -1,6 +1,6 @@
 - ### Hi，Welcome to my GitHub!
 
-  - <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:50%;" />😄 I am junglegodlion, a super handsome boy
+  - <img src="junglegodlion.png" align="right" alt="jungle" style="zoom:10%;" />😄 I am junglegodlion, a super handsome boy
 
   - 🛠 I’m currently working with Java, Python, Scala, SQL
 
@@ -10,6 +10,7 @@
 
   - ⚡ Fun fact: Always believe that paying and harvesting are directly proportional
 
-  - 📫 How to reach me:1037044430@qql.com
+  - 📫 How to reach me:1037044430@qq.com
 
    
+
